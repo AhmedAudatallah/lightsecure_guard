@@ -3,3 +3,5 @@ Cargo.lock
 scan_cache.json
 system_updated.flag
 .DS_Store
+audit.log
+test_file.txt
